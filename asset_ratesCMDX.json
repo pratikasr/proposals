@@ -1,0 +1,20 @@
+{
+    "asset_id" :"2",
+    "u_optimal" :"0.5",
+    "base" :"0.002",
+    "slope_1" :"0.08",
+    "slope_2":"2.0",
+    "enable_stable_borrow" :"0",
+    "stable_base":"0.0",
+    "stable_slope_1":"0.0",
+    "stable_slope_2":"0.0",
+    "ltv":"0.5",
+    "liquidation_threshold":"0.55",
+    "liquidation_penalty":"0.05",
+    "liquidation_bonus":"0.05",
+    "reserve_factor":"0.2",
+    "c_asset_id":"6",
+    "title" :"Add Asset Rates Stats CMDX",
+    "description" :"adding asset rates stats CMDX",
+    "deposit" :"10000000ucmdx"
+   }

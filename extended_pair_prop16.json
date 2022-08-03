@@ -1,0 +1,10 @@
+{
+    "asset_in" :"4",
+    "asset_out" :"2",
+    "is_inter_pool" :"1",
+    "asset_out_pool_id" :"1",
+    "min_usd_value_left":"1000000",
+    "title" :"Add Extended pair OSMO-CMDX",
+    "description" :"adding extended pairs OSMO-CMDX cross pool",
+    "deposit" :"10000000ucmdx"
+   }

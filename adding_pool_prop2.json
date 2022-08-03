@@ -1,0 +1,12 @@
+{
+    "module_name" :"osmo",
+    "main_asset_id" :"4",
+    "first_bridged_asset_id" :"3",
+    "second_bridged_asset_id" :"1",
+    "asset_id":"1,4,3",
+    "is_bridged_asset":"1,0,1",
+    "c_pool_name":"OSMO-ATOM-CMST",
+    "title" :"Add pool",
+    "description" :"adding pool",
+    "deposit" :"10000000ucmdx"
+   }

@@ -1,0 +1,10 @@
+{
+    "asset_in" :"1",
+    "asset_out" :"3",
+    "is_inter_pool" :"0",
+    "asset_out_pool_id" :"2",
+    "min_usd_value_left":"1000000",
+    "title" :"Add Extended pair ATOM-CMST",
+    "description" :"adding extended pairs ATOM-CMST same pool",
+    "deposit" :"10000000ucmdx"
+   }
