@@ -136,26 +136,21 @@ comdex tx gov submit-proposal add-asset-to-pair-mapping  1 1 3,4,15 --from coolu
 
 comdex tx gov vote 33 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
 comdex tx gov submit-proposal add-asset-to-pair-mapping 2 1 1,2,13 --from cooluser --chain-id test-1 --keyring-backend test --title "nothing" --description "not" --deposit 100000000ucmdx -y
 
 comdex tx gov vote 34 yes --from cooluser --chain-id test-1 --keyring-backend test -y
-
 
 comdex tx gov submit-proposal add-asset-to-pair-mapping 3 1 5,6,14 --from cooluser --chain-id test-1 --keyring-backend test --title "nothing" --description "not" --deposit 100000000ucmdx -y
 
 comdex tx gov vote 35 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
 comdex tx gov submit-proposal add-asset-to-pair-mapping 4 2 7,8,16 --from cooluser --chain-id test-1 --keyring-backend test --title "nothing" --description "not" --deposit 100000000ucmdx -y
 
 comdex tx gov vote 36 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
 comdex tx gov submit-proposal add-asset-to-pair-mapping 1 2 9,10,18 --from cooluser --chain-id test-1 --keyring-backend test --title "nothing" --description "not" --deposit 100000000ucmdx -y
 
 comdex tx gov vote 37 yes --from cooluser --chain-id test-1 --keyring-backend test -y
-
 
 comdex tx gov submit-proposal add-asset-to-pair-mapping 3 2 11,12,17 --from cooluser --chain-id test-1 --keyring-backend test --title "nothing" --description "not" --deposit 100000000ucmdx -y
 
@@ -165,6 +160,9 @@ comdex tx gov submit-proposal add-app commodo cmdo 0 0 --from cooluser --chain-i
 
 comdex tx gov vote 39 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
+comdex tx gov submit-proposal add-auction-params --add-auction-params-file proposals/auction.json --from cooluser --chain-id test-1 --keyring-backend test -y
+
+comdex tx gov vote 40 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
 
 Tx-ModuleBalance Commands
