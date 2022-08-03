@@ -168,6 +168,7 @@ comdex tx gov vote 39 yes --from cooluser --chain-id test-1 --keyring-backend te
 
 
 Tx-ModuleBalance Commands
+
 comdex tx lend fund-module osmo 1 10000000000uatom --from cooluser --chain-id test-1 --keyring-backend test -y 
 
 comdex tx lend fund-module osmo 3 10000000000ucmst --from cooluser --chain-id test-1 --keyring-backend test -y
