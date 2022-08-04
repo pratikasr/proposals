@@ -6,6 +6,7 @@
     "asset_id":"1,4,3",
     "is_bridged_asset":"1,0,1",
     "c_pool_name":"OSMO-ATOM-CMST",
+    "reserve_funds" : "100000000",
     "title" :"Add pool",
     "description" :"adding pool",
     "deposit" :"10000000ucmdx"
