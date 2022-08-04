@@ -5,8 +5,6 @@
     "cusp": "0.4",
     "step": "360",
     "price_function_type": "1",
-    "surplus_id": "1",
-    "debt_id": "2",
     "dutch_id": "3",
     "bid_duration_seconds": "360",
     "title": "Adding Auction Params for Lend Module",
