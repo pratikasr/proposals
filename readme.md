@@ -30,30 +30,28 @@ comdex tx gov submit-proposal add-assets --add-assets-file proposals/assetCosmo.
 
 comdex tx gov vote 8  yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
-comdex tx gov submit-proposal add-lend-pool --add-lend-pool-file proposals/adding_pool_prop.json --from cooluser --chain-id test-1 --keyring-backend test -y
+comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesCMST.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
 
 comdex tx gov vote 9 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
-comdex tx gov submit-proposal add-lend-pool --add-lend-pool-file proposals/adding_pool_prop2.json --from cooluser --chain-id test-1 --keyring-backend test -y
+comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesATOM.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
 
 comdex tx gov vote 10 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-
-comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesCMST.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
+comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesOSMO.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
 
 comdex tx gov vote 11 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesATOM.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
+comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesCMDX.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
 
 comdex tx gov vote 12 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesOSMO.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
+comdex tx gov submit-proposal add-lend-pool --add-lend-pool-file proposals/adding_pool_prop.json --from cooluser --chain-id test-1 --keyring-backend test --gas 300000 -y
 
 comdex tx gov vote 13 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
-comdex tx gov submit-proposal add-asset-rates-stats --add-asset-rates-stats-file proposals/asset_ratesCMDX.json --from cooluser --chain-id test-1 --keyring-backend test --gas 250000 -y
+
+comdex tx gov submit-proposal add-lend-pool --add-lend-pool-file proposals/adding_pool_prop2.json --from cooluser --chain-id test-1 --keyring-backend test  --gas 300000 -y
 
 comdex tx gov vote 14 yes --from cooluser --chain-id test-1 --keyring-backend test -y
 
