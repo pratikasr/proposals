@@ -3,7 +3,7 @@
     "asset_out" :"4",
     "is_inter_pool" :"1",
     "asset_out_pool_id" :"2",
-    "min_usd_value_left":"1000000",
+    "min_usd_value_left":"100000000000",
     "title" :"Add Extended pair ATOM-OSMO",
     "description" :"adding extended pairs ATOM-OSMO cross pool",
     "deposit" :"10000000ucmdx"
