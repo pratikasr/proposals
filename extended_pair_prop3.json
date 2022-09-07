@@ -5,6 +5,6 @@
     "asset_out_pool_id" :"1",
     "min_usd_value_left":"100000000000",
     "title" :"Add Extended pair ATOM-CMDX",
-    "description" :"adding extended pairs ATOM-CMDX same pool",
+    "description" :"adding extended pairs ATOM-CMDX for same pool borrow",
     "deposit" :"10000000ucmdx"
    }

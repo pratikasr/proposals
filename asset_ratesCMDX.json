@@ -15,6 +15,6 @@
     "reserve_factor":"0.2",
     "c_asset_id":"6",
     "title" :"Add Asset Rates Stats CMDX",
-    "description" :"adding asset rates stats CMDX",
+    "description" :"adding asset rates stats CMDX for Commodo",
     "deposit" :"10000000ucmdx"
    }

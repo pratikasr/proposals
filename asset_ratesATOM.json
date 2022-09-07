@@ -15,6 +15,6 @@
     "reserve_factor":"0.2",
     "c_asset_id":"5",
     "title" :"Add Asset Rates Stats ATOM",
-    "description" :"adding asset rates stats ATOM",
+    "description" :"adding asset rates stats ATOM for Commodo",
     "deposit" :"10000000ucmdx"
    }

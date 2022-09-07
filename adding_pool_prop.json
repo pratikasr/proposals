@@ -7,7 +7,7 @@
     "is_bridged_asset":"1,0,1",
     "c_pool_name":"CMDX-ATOM-CMST",
     "reserve_funds" : "100000000",
-    "title" :"Add pool",
-    "description" :"adding pool",
+    "title" :"Add cPool CMDX-ATOM-CMST",
+    "description" :"adding cPool CMDX-ATOM-CMST for commodo",
     "deposit" :"10000000ucmdx"
    }

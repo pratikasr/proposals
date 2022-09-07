@@ -9,5 +9,5 @@
     "bid_duration_seconds": "360",
     "title": "Adding Auction Params for Lend Module",
     "description" :"Params for auctions",
-    "deposit" :"100000000ucmdx"
+    "deposit" :"10000000ucmdx"
 }
