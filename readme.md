@@ -68,4 +68,4 @@ comdex tx gov submit-proposal add-asset-to-pair-mapping 3 2 11,12,17 --from cool
 comdex tx gov submit-proposal add-auction-params --add-auction-params-file proposals/auction.json --from cooluser --chain-id meteor-test --keyring-backend test --node http://46.166.163.36:26657 -y --gas 300000
 
 
-comdex tx gov submit-proposal add-app commodo cmdo 0 0 --from cooluser  --keyring-backend test --title "Add Commodo Application on Comdex Chain" --description "Adding new app on comdex for Commodo" --deposit 100000000ucmdx --node http://46.166.163.36:26657 -y --gas 300000
+comdex tx gov submit-proposal add-app commodo cmdo 0 0 --from cooluser  --keyring-backend test --title "Add Commodo Application on Comdex Chain" --description "adding commodo application configurations on chain" --deposit 100000000ucmdx --node http://46.166.163.36:26657 -y --gas 300000
