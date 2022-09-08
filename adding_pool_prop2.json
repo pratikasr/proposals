@@ -8,6 +8,6 @@
     "c_pool_name":"OSMO-ATOM-CMST",
     "reserve_funds" : "100000000",
     "title" :"Add cPool OSMO-ATOM-CMST",
-    "description" :"adding cPool OSMO-ATOM-CMST for commodo",
+    "description" :"adding cPool OSMO-ATOM-CMST for commodo. <br/>By voting “Yes”, you agree to add the proposed cPool. <br/>By voting “No”, you do not agree to add the proposed cPool.<br/>",
     "deposit" :"10000000ucmdx"
    }

@@ -5,6 +5,6 @@
     "asset_out_pool_id" :"2",
     "min_usd_value_left":"100000000000",
     "title" :"Add Extended pair CMDX-OSMO",
-    "description" :"adding extended pairs CMDX-OSMO for cross pool borrow",
+    "description" :"adding extended pairs CMDX-OSMO for cross pool borrow. <br/>By voting “Yes”, you agree to add the proposed pair. <br/>By voting “No”, you do not agree to add the proposed pair.<br/>",
     "deposit" :"10000000ucmdx"
    }

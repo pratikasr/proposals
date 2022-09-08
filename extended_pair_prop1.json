@@ -5,6 +5,6 @@
     "asset_out_pool_id" :"1",
     "min_usd_value_left":"100000000000",
     "title" :"Add Extended pair CMDX-CMST",
-    "description" :"adding extended pairs for CMDX-CMST for same pool borrow",
+    "description" :"adding extended pairs for CMDX-CMST for same pool borrow. <br/>By voting “Yes”, you agree to add the proposed pair. <br/>By voting “No”, you do not agree to add the proposed pair.<br/>",
     "deposit" :"10000000ucmdx"
    }

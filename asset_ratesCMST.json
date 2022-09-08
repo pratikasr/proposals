@@ -15,6 +15,6 @@
     "reserve_factor":"0.1",
     "c_asset_id":"7",
     "title" :"Add Asset Rates Stats CMST",
-    "description" :"adding asset rates stats for CMST for Commodo",
+    "description" :"adding asset rates stats for CMST for Commodo. <br/>By voting “Yes”, you agree to add the proposed asset-rates. <br/>By voting “No”, you do not agree to add the proposed asset-rates.<br/>",
     "deposit" :"10000000ucmdx"
    }

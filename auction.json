@@ -8,6 +8,6 @@
     "dutch_id": "3",
     "bid_duration_seconds": "360",
     "title": "Adding Auction Params for Lend Module",
-    "description" :"Params for auctions",
+    "description" :"Params for Commodo Auctions. <br/>By voting “Yes”, you agree to add the proposed params for auctions. <br/>By voting “No”, you do not agree to add the proposed params for auctions.<br/>",
     "deposit" :"10000000ucmdx"
 }
